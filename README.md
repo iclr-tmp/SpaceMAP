@@ -20,7 +20,7 @@ SpaceMAP holds two ideas:
 
 ![result 1](/images/multi-datasets-results.png)
 
-### Portriat of A Million
+### Portrait of A Million
 
 * The implementation is derived from the UMAP paper and the following link: https://johnhw.github.io/umap_primes/index.md.html
 
