@@ -14,6 +14,10 @@ SpaceMAP holds two ideas:
 
 ## Embedding Results
 
+![result 1](/images/multi-datasets-results.png)
 
+![result 1](/images/1e6.png)
+
+![result 1](/images/w2v.png)
 
 
