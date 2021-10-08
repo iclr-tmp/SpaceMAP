@@ -4,7 +4,7 @@ This repo is the implementation of SpaceMAP for the ICLR 2022 submission: 'Space
 
 SpaceMAP IS a novel dimensionality reduction method based on space geometry and hierarchical manifold approximation.💫
 
-It can handle both clustered and continuous datasets with both local and global structure preserved.🍀
+It can handle both clustered and continuous datasets with both local and global structure preserved.🍀 The computational performence is also competitive.🚀
 
 ## Key Features
 
