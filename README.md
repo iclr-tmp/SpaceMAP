@@ -1,6 +1,6 @@
 # SpaceMAP
 
-This repo is the implementation of SpaceMAP for the ICLR 2022 submission: SpaceMAP: 'Visualizing Any Data in 2-dimension by Space Expansion' 
+This repo is the implementation of SpaceMAP for the ICLR 2022 submission: 'SpaceMAP: Visualizing Any Data in 2-dimension by Space Expansion' 
 
 SpaceMAP IS a novel dimensionality reduction method based on space geometry and hierarchical manifold approximation.💫
 
